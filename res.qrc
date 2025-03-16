@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/air.png</file>
+        <file>res/baoxue.png</file>
+        <file>res/baoyu.png</file>
+        <file>res/dabaoyu.png</file>
+        <file>res/daxue.png</file>
+        <file>res/dayu.png</file>
+        <file>res/duoyun.png</file>
+        <file>res/leizhengyubanbingbao.png</file>
+        <file>res/leizhenyu.png</file>
+        <file>res/PM25.png</file>
+        <file>res/qing.png</file>
+        <file>res/search.png</file>
+        <file>res/shidu.png</file>
+        <file>res/tedabaoyu.png</file>
+        <file>res/wind.png</file>
+        <file>res/wu.png</file>
+        <file>res/xiaoxue.png</file>
+        <file>res/xiaoyu.png</file>
+        <file>res/yin.png</file>
+        <file>res/yujiaxue.png</file>
+        <file>res/zhenyu.png</file>
+        <file>res/zhongxue.png</file>
+        <file>res/zhongyu.png</file>
+        <file>res/close.ico</file>
+        <file>res/bingbao.png</file>
+        <file>res/dongyu (2).png</file>
+        <file>res/shachenbao.png</file>
+        <file>res/wumai.png</file>
+        <file>res/yangsha.png</file>
+        <file>res/citycode-2019-08-23.json</file>
+        <file>res/sousuo.ico</file>
+    </qresource>
+</RCC>
